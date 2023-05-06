@@ -1,3 +1,8 @@
+% The code is supplementary to the corresponding paper:                    %
+% An effective topological representation and dimensional reduction        %
+% approach for multi-material topology optimization,                       %
+% Jianwen Bao, Zhaoyou Sun, Pai Liu, Yangjun Luo                           %
+
 1. The present code uses the MMA Matlab routines (which is widely used in the structural optimization community) as the optimizer. 
 The present code calls the subroutine mmasub.m (“Version September 2007”) from the MMA Matlab routines, which in turn calls
 another MMA subroutine subsolv.m (“Version Dec 2006”). 
